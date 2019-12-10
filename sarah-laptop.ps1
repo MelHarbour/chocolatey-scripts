@@ -4,3 +4,4 @@ choco install keepass -y
 choco install teamviewer -y
 choco install openvpn -y --params "'/SELECT_LAUNCH=0'"
 choco install google-backup-and-sync -y
+choco install gnucash -y
