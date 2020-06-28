@@ -5,3 +5,4 @@ choco install teamviewer -y
 choco install openvpn -y --params "'/SELECT_LAUNCH=0'"
 choco install google-backup-and-sync -y
 choco install gnucash -y
+choco install paint.net -y
