@@ -7,3 +7,4 @@ choco install google-backup-and-sync -y
 choco install gnucash -y
 choco install paint.net -y
 choco install keepass-keepasshttp -y
+choco install thunderbird -y
